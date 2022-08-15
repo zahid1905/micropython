@@ -34,5 +34,5 @@ while True:
     if b8.value() == 1:
         numero += 128
     print("Valor decimal: ", numero)
-    sleep(0.5)
+    sleep(1)
     numero = 0
